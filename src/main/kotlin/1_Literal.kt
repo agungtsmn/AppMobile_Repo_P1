@@ -1,11 +1,11 @@
 fun main() {
 
     // deklarasi dan inisialisasi variabel - variabel
-    val intLiteral = 5
-    val doubleLiteral = 5
-    val stringLiteral = "Agung"
-    val charLiteral = '1'
-    val boolLiteral = true
+    var intLiteral = 5
+    var doubleLiteral = 5
+    var stringLiteral = "Agung"
+    var charLiteral = '1'
+    var boolLiteral = true
 
     // menampilkan variabel menggunakan string template
     println("intLiteral = $intLiteral")
